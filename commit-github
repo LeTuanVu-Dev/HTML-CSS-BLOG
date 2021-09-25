@@ -1,5 +1,18 @@
 -- git init
 .. git add .
 -- git commit -m"tên tiêu đề"
+--git push 'tên để push đã đặt' master
+
+/* nếu ko thành công dính lỗi 403 thì các bạn vào settings -> developer settings -> personal access tokens
+-> New personal access token -> dòng Expiration chọn full và đánh dấu tích vào repo ở dưới -> kéo dưới cùng và tạo rồi copy token rồi điền như mình "
+
+demo token: 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@github.com
+
+và với mẫu như kia thay token của các bạn vào và làm lại từ đầu nha trước khi push thêm dùng này cho mình rồi push là xong . 
+
+-- git init
+.. git add .
+-- git commit -m"tên tiêu đề"
 ## git remote add 'tên để push' https://LeTuanVu-Dev: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@github.com/LeTuanVu-Dev/'tên reposition'.git/
 --git push 'tên để push đã đặt' master
+
