@@ -1,0 +1,5 @@
+-- git init
+.. git add .
+-- git commit -m"tên tiêu đề"
+## git remote add 'tên để push' https://LeTuanVu-Dev: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@github.com/LeTuanVu-Dev/'tên reposition'.git/
+--git push 'tên để push đã đặt' master
